@@ -1,0 +1,3 @@
+class ServiceLog:
+    START_LOG = "SERVICE IS STARTED..."
+    RUN_TASK_LOG = "SERVICE RUN TASK..."

@@ -1,0 +1,3 @@
+class RedisLogs:
+    KEYS_LOG = "REDIS KEYS: {keys}"
+    SUCCESSFULLY_CLEAR_LOG = "SUCCESSFULLY CLEAR DATA..."
